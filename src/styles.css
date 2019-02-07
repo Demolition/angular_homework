@@ -1,0 +1,15 @@
+
+body {
+  height: 100%;
+  margin: 10px;
+  font-size: 20px;
+  font-family: Century Gothic;
+}
+
+a:hover {
+  background-color: aquamarine;
+}
+
+ul {
+  list-style-type: none;
+}

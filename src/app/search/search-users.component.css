@@ -1,0 +1,72 @@
+.avatar {
+  width: 100px;
+}
+
+.avatar img {
+  border-radius: 100%;
+  width: 100%;
+}
+
+
+
+button {
+  background-color: #007676;
+  border: none;
+  color: white;
+  padding: 10px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 5px;
+}
+
+button:hover {
+  background-color: aquamarine;
+  color: white;
+}
+
+p {
+  padding: 0 10px;
+}
+
+.left-info {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+
+.response {
+  display: flex;
+  justify-content: space-between;
+  margin: 40px 30px;
+  border: 1px solid #ccc;
+  padding: 20px;
+  text-align: center;
+}
+
+.search {
+  background-color: deepskyblue;
+  height: 70px;
+
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.search label {
+  color: #fff;
+  font-size: 30px;
+  margin: -100px;
+}
+
+input {
+  border: none;
+  margin: 5px;
+  height: 25px;
+  padding: 5px;
+  width: 200px;
+}
+
+

@@ -1,0 +1,56 @@
+* {
+  margin: 5px;
+}
+
+body {
+  font-size: 40px;
+  margin-bottom: -50px;
+}
+
+header {
+  padding: 30px;
+  background-color: gray;
+  height: 60px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  color: #fff;
+}
+
+header a,
+a:visited {
+  color: #fff;
+  text-decoration: none;
+}
+
+.logo {
+  width: 300px;
+}
+
+.logo img {
+  width: 100%;
+}
+.main {
+  padding-bottom: 100px;
+  margin-bottom: -40px;
+  min-height: 70%;
+  background-color: azure;
+
+
+}
+footer {
+  padding: 5px 40px;
+  background-color: darkgray;
+  height: 80px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 0;
+  color: #fff;
+}
+
+.nav-item {
+  padding: 0 20px;
+}
+
+

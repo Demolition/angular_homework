@@ -1,0 +1,25 @@
+.logo{
+    width: 55%;
+    display: inline-block;
+    margin: 10px;
+}
+
+.logo img{
+    width: 100%;
+}
+
+.article{
+    display: flex;
+    justify-content: space-around;
+    margin:10px;
+}
+
+p{
+    display: inline-block;
+    width: 40%;
+    text-align: justify;
+}
+
+h1{
+    text-align: center;
+}
